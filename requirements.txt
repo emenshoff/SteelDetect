@@ -1,0 +1,10 @@
+segmentation-models
+tensorflow
+Keras
+opencv-python
+scipy
+sklearn
+matplotlib
+pandas
+numpy
+PIL
